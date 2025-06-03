@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "MXeEza4cz40=",
+  "success": true,
+  "projectFilePath": "D:\\Ranjan\\HangfireUI\\HangfireWeb\\HangfireWeb\\HangfireWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ranjan\\.nuget\\packages\\hangfire.aspnetcore\\1.8.20\\hangfire.aspnetcore.1.8.20.nupkg.sha512",
+    "C:\\Users\\Ranjan\\.nuget\\packages\\hangfire.core\\1.8.20\\hangfire.core.1.8.20.nupkg.sha512",
+    "C:\\Users\\Ranjan\\.nuget\\packages\\hangfire.memorystorage\\1.8.1.1\\hangfire.memorystorage.1.8.1.1.nupkg.sha512",
+    "C:\\Users\\Ranjan\\.nuget\\packages\\hangfire.netcore\\1.8.20\\hangfire.netcore.1.8.20.nupkg.sha512",
+    "C:\\Users\\Ranjan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ranjan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ranjan\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.0.0\\microsoft.extensions.fileproviders.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ranjan\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\3.0.0\\microsoft.extensions.hosting.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ranjan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.0\\microsoft.extensions.logging.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ranjan\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ranjan\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

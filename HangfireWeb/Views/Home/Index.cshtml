@@ -1,0 +1,27 @@
+﻿<h2>Hangfire Task Automation Demo</h2>
+
+<form method="post" asp-action="ScheduleJob">
+    <button type="submit">📦 Run All Jobs</button>
+</form>
+
+<hr />
+
+<h3>Or run individually:</h3>
+<form method="post" asp-action="RunEmailJob">
+    <button type="submit">📧 Send Welcome Email</button>
+</form>
+<form method="post" asp-action="RunLogCleanup">
+    <button type="submit">🧹 Clean Old Logs</button>
+</form>
+<form method="post" asp-action="RunReportGeneration">
+    <button type="submit">📊 Generate Report</button>
+</form>
+
+@if (TempData["Message"] != null)
+{
+    <p style="color:green">@TempData["Message"]</p>
+}
+
+<p>
+    🔍 Monitor jobs in <a href="/hangfire" target="_blank">Hangfire Dashboard</a>
+</p>

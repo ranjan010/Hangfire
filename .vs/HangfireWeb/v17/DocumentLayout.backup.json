@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ranjan\\HangfireUI\\HangfireWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1B2BDE-5AE7-4C9E-AF08-4E3DA454B29B}|HangfireWeb\\HangfireWeb.csproj|d:\\ranjan\\hangfireui\\hangfireweb\\hangfireweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1B2BDE-5AE7-4C9E-AF08-4E3DA454B29B}|HangfireWeb\\HangfireWeb.csproj|solutionrelative:hangfireweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1B2BDE-5AE7-4C9E-AF08-4E3DA454B29B}|HangfireWeb\\HangfireWeb.csproj|d:\\ranjan\\hangfireui\\hangfireweb\\hangfireweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1B2BDE-5AE7-4C9E-AF08-4E3DA454B29B}|HangfireWeb\\HangfireWeb.csproj|solutionrelative:hangfireweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1B2BDE-5AE7-4C9E-AF08-4E3DA454B29B}|HangfireWeb\\HangfireWeb.csproj|d:\\ranjan\\hangfireui\\hangfireweb\\hangfireweb\\services\\taskservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1B2BDE-5AE7-4C9E-AF08-4E3DA454B29B}|HangfireWeb\\HangfireWeb.csproj|solutionrelative:hangfireweb\\services\\taskservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1B2BDE-5AE7-4C9E-AF08-4E3DA454B29B}|HangfireWeb\\HangfireWeb.csproj|d:\\ranjan\\hangfireui\\hangfireweb\\hangfireweb\\services\\itaskservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1B2BDE-5AE7-4C9E-AF08-4E3DA454B29B}|HangfireWeb\\HangfireWeb.csproj|solutionrelative:hangfireweb\\services\\itaskservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1B2BDE-5AE7-4C9E-AF08-4E3DA454B29B}|HangfireWeb\\HangfireWeb.csproj|d:\\ranjan\\hangfireui\\hangfireweb\\hangfireweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE1B2BDE-5AE7-4C9E-AF08-4E3DA454B29B}|HangfireWeb\\HangfireWeb.csproj|solutionrelative:hangfireweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1B2BDE-5AE7-4C9E-AF08-4E3DA454B29B}|HangfireWeb\\HangfireWeb.csproj|d:\\ranjan\\hangfireui\\hangfireweb\\hangfireweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE1B2BDE-5AE7-4C9E-AF08-4E3DA454B29B}|HangfireWeb\\HangfireWeb.csproj|solutionrelative:hangfireweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITaskServices.cs",
+              "DocumentMoniker": "D:\\Ranjan\\HangfireUI\\HangfireWeb\\HangfireWeb\\Services\\ITaskServices.cs",
+              "RelativeDocumentMoniker": "HangfireWeb\\Services\\ITaskServices.cs",
+              "ToolTip": "D:\\Ranjan\\HangfireUI\\HangfireWeb\\HangfireWeb\\Services\\ITaskServices.cs",
+              "RelativeToolTip": "HangfireWeb\\Services\\ITaskServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:05:19.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Ranjan\\HangfireUI\\HangfireWeb\\HangfireWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HangfireWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Ranjan\\HangfireUI\\HangfireWeb\\HangfireWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HangfireWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T16:03:14.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskServices.cs",
+              "DocumentMoniker": "D:\\Ranjan\\HangfireUI\\HangfireWeb\\HangfireWeb\\Services\\TaskServices.cs",
+              "RelativeDocumentMoniker": "HangfireWeb\\Services\\TaskServices.cs",
+              "ToolTip": "D:\\Ranjan\\HangfireUI\\HangfireWeb\\HangfireWeb\\Services\\TaskServices.cs",
+              "RelativeToolTip": "HangfireWeb\\Services\\TaskServices.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:57:30.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ranjan\\HangfireUI\\HangfireWeb\\HangfireWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HangfireWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Ranjan\\HangfireUI\\HangfireWeb\\HangfireWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HangfireWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T15:11:55.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Ranjan\\HangfireUI\\HangfireWeb\\HangfireWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HangfireWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Ranjan\\HangfireUI\\HangfireWeb\\HangfireWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HangfireWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:11:09.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ranjan\\HangfireUI\\HangfireWeb\\HangfireWeb\\Program.cs",
+              "RelativeDocumentMoniker": "HangfireWeb\\Program.cs",
+              "ToolTip": "D:\\Ranjan\\HangfireUI\\HangfireWeb\\HangfireWeb\\Program.cs",
+              "RelativeToolTip": "HangfireWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:10:51.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
